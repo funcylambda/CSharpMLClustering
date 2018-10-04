@@ -1,0 +1,12 @@
+C:\Users\Grumpy\source\repos\ML_Clustering\bin\Debug\netcoreapp2.1\ML_Clustering.deps.json
+C:\Users\Grumpy\source\repos\ML_Clustering\bin\Debug\netcoreapp2.1\ML_Clustering.runtimeconfig.json
+C:\Users\Grumpy\source\repos\ML_Clustering\bin\Debug\netcoreapp2.1\ML_Clustering.runtimeconfig.dev.json
+C:\Users\Grumpy\source\repos\ML_Clustering\bin\Debug\netcoreapp2.1\ML_Clustering.dll
+C:\Users\Grumpy\source\repos\ML_Clustering\obj\Debug\netcoreapp2.1\ML_Clustering.csprojAssemblyReference.cache
+C:\Users\Grumpy\source\repos\ML_Clustering\obj\Debug\netcoreapp2.1\ML_Clustering.csproj.CoreCompileInputs.cache
+C:\Users\Grumpy\source\repos\ML_Clustering\obj\Debug\netcoreapp2.1\ML_Clustering.AssemblyInfoInputs.cache
+C:\Users\Grumpy\source\repos\ML_Clustering\obj\Debug\netcoreapp2.1\ML_Clustering.AssemblyInfo.cs
+C:\Users\Grumpy\source\repos\ML_Clustering\bin\Debug\netcoreapp2.1\Data\iris.data
+C:\Users\Grumpy\source\repos\ML_Clustering\bin\Debug\netcoreapp2.1\ML_Clustering.pdb
+C:\Users\Grumpy\source\repos\ML_Clustering\obj\Debug\netcoreapp2.1\ML_Clustering.dll
+C:\Users\Grumpy\source\repos\ML_Clustering\obj\Debug\netcoreapp2.1\ML_Clustering.pdb
